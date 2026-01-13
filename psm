@@ -1,4 +1,5 @@
 
+
 ##113
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2823,5 +2824,5 @@ VOD
 
 ############################ OTHER CHANNEL
 
-#EXTM3U billed-msg=" Free"
+#EXTM3U billed-msg=" Free V2"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://raw.githubusercontent.com/palabatu/iptv/refs/heads/main/vodzayan,https://mokm32.github.io/new,https://mokm32.github.io/vod-top-20"
